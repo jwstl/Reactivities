@@ -9,10 +9,8 @@ F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\API.dll
 F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\API.pdb
 F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\Application.dll
 F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\Domain.dll
-F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\Persistance.dll
 F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\Application.pdb
 F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\Domain.pdb
-F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\Persistance.pdb
 F:\repos\Reactivities\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
 F:\repos\Reactivities\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
 F:\repos\Reactivities\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
@@ -50,3 +48,6 @@ F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqli
 F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\Persistence.dll
+F:\repos\Reactivities\API\bin\Debug\netcoreapp3.1\Persistence.pdb

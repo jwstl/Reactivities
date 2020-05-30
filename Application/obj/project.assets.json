@@ -490,7 +490,7 @@
           "bin/placeholder/Domain.dll": {}
         }
       },
-      "Persistance/1.0.0": {
+      "Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
@@ -499,10 +499,10 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.0"
         },
         "compile": {
-          "bin/placeholder/Persistance.dll": {}
+          "bin/placeholder/Persistence.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Persistance.dll": {}
+          "bin/placeholder/Persistence.dll": {}
         }
       }
     }
@@ -1286,16 +1286,16 @@
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
     },
-    "Persistance/1.0.0": {
+    "Persistence/1.0.0": {
       "type": "project",
-      "path": "../Persistance/Persistance.csproj",
-      "msbuildProject": "../Persistance/Persistance.csproj"
+      "path": "../Persistence/Persistence.csproj",
+      "msbuildProject": "../Persistence/Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
       "Domain >= 1.0.0",
-      "Persistance >= 1.0.0"
+      "Persistence >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1327,8 +1327,8 @@
             "F:\\repos\\Reactivities\\Domain\\Domain.csproj": {
               "projectPath": "F:\\repos\\Reactivities\\Domain\\Domain.csproj"
             },
-            "F:\\repos\\Reactivities\\Persistance\\Persistance.csproj": {
-              "projectPath": "F:\\repos\\Reactivities\\Persistance\\Persistance.csproj"
+            "F:\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "F:\\repos\\Reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }

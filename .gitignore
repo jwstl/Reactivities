@@ -8,3 +8,5 @@ settings.json
 appsettings.json
 .idea
 Debug/
+*/**/bin/Debug
+*/**/obj/Debug

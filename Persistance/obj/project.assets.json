@@ -1285,11 +1285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos\\Reactivities\\Persistance\\Persistance.csproj",
+      "projectUniqueName": "f:\\repos\\Reactivities\\Persistance\\Persistance.csproj",
       "projectName": "Persistance",
-      "projectPath": "F:\\repos\\Reactivities\\Persistance\\Persistance.csproj",
+      "projectPath": "f:\\repos\\Reactivities\\Persistance\\Persistance.csproj",
       "packagesPath": "C:\\Users\\share\\.nuget\\packages\\",
-      "outputPath": "F:\\repos\\Reactivities\\Persistance\\obj\\",
+      "outputPath": "f:\\repos\\Reactivities\\Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\share\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1305,8 +1305,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "F:\\repos\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\repos\\Reactivities\\Domain\\Domain.csproj"
+            "f:\\repos\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "f:\\repos\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }
