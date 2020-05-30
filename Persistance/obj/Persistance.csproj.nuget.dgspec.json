@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\repos\\Reactivities\\Persistance\\Persistance.csproj": {}
+    "f:\\repos\\Reactivities\\Persistance\\Persistance.csproj": {}
   },
   "projects": {
-    "F:\\repos\\Reactivities\\Domain\\Domain.csproj": {
+    "f:\\repos\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\repos\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "f:\\repos\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\repos\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "f:\\repos\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\share\\.nuget\\packages\\",
-        "outputPath": "F:\\repos\\Reactivities\\Domain\\obj\\",
+        "outputPath": "f:\\repos\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\share\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "F:\\repos\\Reactivities\\Persistance\\Persistance.csproj": {
+    "f:\\repos\\Reactivities\\Persistance\\Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\repos\\Reactivities\\Persistance\\Persistance.csproj",
+        "projectUniqueName": "f:\\repos\\Reactivities\\Persistance\\Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "F:\\repos\\Reactivities\\Persistance\\Persistance.csproj",
+        "projectPath": "f:\\repos\\Reactivities\\Persistance\\Persistance.csproj",
         "packagesPath": "C:\\Users\\share\\.nuget\\packages\\",
-        "outputPath": "F:\\repos\\Reactivities\\Persistance\\obj\\",
+        "outputPath": "f:\\repos\\Reactivities\\Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\share\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "F:\\repos\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\repos\\Reactivities\\Domain\\Domain.csproj"
+              "f:\\repos\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "f:\\repos\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -97,6 +97,14 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
