@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\share\\.nuget\\packages\\": {}
+    "C:\\Users\\jwhite\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "c:\\repos\\Reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "F:\\repos\\Reactivities\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\share\\.nuget\\packages\\",
-      "outputPath": "F:\\repos\\Reactivities\\Domain\\obj\\",
+      "projectPath": "c:\\repos\\Reactivities\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\jwhite\\.nuget\\packages\\",
+      "outputPath": "c:\\repos\\Reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\share\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jwhite\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

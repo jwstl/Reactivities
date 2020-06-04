@@ -1299,19 +1299,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\share\\.nuget\\packages\\": {}
+    "C:\\Users\\jwhite\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\repos\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "F:\\repos\\Reactivities\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\share\\.nuget\\packages\\",
-      "outputPath": "F:\\repos\\Reactivities\\Application\\obj\\",
+      "projectPath": "C:\\repos\\Reactivities\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\jwhite\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\share\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jwhite\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1324,11 +1324,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "F:\\repos\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\repos\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\repos\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\repos\\Reactivities\\Domain\\Domain.csproj"
             },
-            "F:\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "F:\\repos\\Reactivities\\Persistence\\Persistence.csproj"
+            "C:\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\repos\\Reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }

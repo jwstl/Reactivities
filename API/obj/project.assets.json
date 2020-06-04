@@ -1196,19 +1196,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\share\\.nuget\\packages\\": {}
+    "C:\\Users\\jwhite\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\repos\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "F:\\repos\\Reactivities\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\share\\.nuget\\packages\\",
-      "outputPath": "F:\\repos\\Reactivities\\API\\obj\\",
+      "projectPath": "C:\\repos\\Reactivities\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\jwhite\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\share\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jwhite\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1221,8 +1221,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\repos\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "F:\\repos\\Reactivities\\Application\\Application.csproj"
+            "C:\\repos\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "C:\\repos\\Reactivities\\Application\\Application.csproj"
             }
           }
         }
