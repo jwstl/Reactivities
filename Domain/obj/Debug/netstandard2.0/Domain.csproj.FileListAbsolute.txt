@@ -1,9 +1,0 @@
-F:\repos\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.deps.json
-F:\repos\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.dll
-F:\repos\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.pdb
-F:\repos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
-F:\repos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
-F:\repos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
-F:\repos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
-F:\repos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.dll
-F:\repos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.pdb
